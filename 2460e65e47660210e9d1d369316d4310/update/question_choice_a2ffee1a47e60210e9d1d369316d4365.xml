@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Work Mode">719f221a47e60210e9d1d369316d43f2</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 23:39:59</sys_created_on>
+        <sys_id>a2ffee1a47e60210e9d1d369316d4365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hybrid</sys_name>
+        <sys_package display_value="Onboarding Employee" source="x_878034_onboardin">2460e65e47660210e9d1d369316d4310</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding Employee">2460e65e47660210e9d1d369316d4310</sys_scope>
+        <sys_update_name>question_choice_a2ffee1a47e60210e9d1d369316d4365</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 23:39:59</sys_updated_on>
+        <text>Hybrid</text>
+        <value>hybrid</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=a2ffee1a47e60210e9d1d369316d4365"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>a2ffee1a47e60210e9d1d369316d4365</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 23:40:00</sys_created_on>
+        <sys_id>8100fe1a47e60210e9d1d369316d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 23:40:00</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>a2ffee1a47e60210e9d1d369316d4365</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 23:40:00</sys_created_on>
+        <sys_id>4900fe1a47e60210e9d1d369316d436e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 23:40:00</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

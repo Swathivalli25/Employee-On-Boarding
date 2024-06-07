@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="DELETE">
+        <condition/>
+        <guide display_value="Employee On Boarding">f749f6aa47a20210e9d1d369316d43c6</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Create Email ID and Employee ID">a012ae9647a60210e9d1d369316d4312</item>
+        <order>20</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 19:15:47</sys_created_on>
+        <sys_id>891df62247e20210e9d1d369316d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a012ae9647a60210e9d1d369316d4312</sys_name>
+        <sys_package display_value="Onboarding Employee" source="x_878034_onboardin">2460e65e47660210e9d1d369316d4310</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding Employee">2460e65e47660210e9d1d369316d4310</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_891df62247e20210e9d1d369316d438a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 19:15:47</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Onboarding Employee">2460e65e47660210e9d1d369316d4310</application>
+        <file_path/>
+        <instance_id>59f7d199dbc2b1d002d91729139619cc</instance_id>
+        <instance_name>dev192735</instance_name>
+        <name>sc_cat_item_guide_items_891df62247e20210e9d1d369316d438a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items"><sc_cat_item_guide_items action="INSERT_OR_UPDATE"><condition/><guide display_value="Employee On Boarding">f749f6aa47a20210e9d1d369316d43c6</guide><ignore_mandatory_eval>false</ignore_mandatory_eval><item display_value="Create Email ID and Employee ID">a012ae9647a60210e9d1d369316d4312</item><order>20</order><quantity>1</quantity><requested_by/><requested_for/><show_quantity>false</show_quantity><sys_class_name>sc_cat_item_guide_items</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-05 19:15:47</sys_created_on><sys_id>891df62247e20210e9d1d369316d438a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a012ae9647a60210e9d1d369316d4312</sys_name><sys_package display_value="Onboarding Employee" source="x_878034_onboardin">2460e65e47660210e9d1d369316d4310</sys_package><sys_policy/><sys_scope display_value="Onboarding Employee">2460e65e47660210e9d1d369316d4310</sys_scope><sys_update_name>sc_cat_item_guide_items_891df62247e20210e9d1d369316d438a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-05 19:15:47</sys_updated_on><use_sc_layout>true</use_sc_layout></sc_cat_item_guide_items></record_update>]]></payload>
+        <payload_hash>-1923854594</payload_hash>
+        <record_name>a012ae9647a60210e9d1d369316d4312</record_name>
+        <reverted_from/>
+        <source>6c60e29647a60210e9d1d369316d4357</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 19:15:47</sys_created_on>
+        <sys_id>d82df22247e20210e9d1d369316d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fe9d42c870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 19:15:47</sys_updated_on>
+        <type>Rule</type>
+        <update_guid>102df22274e20210c543ba6018527637</update_guid>
+        <update_guid_history>102df22274e20210c543ba6018527637:-1923854594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create Email ID and Employee ID">e23dbe2247e20210e9d1d369316d4390</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 19:16:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide_items">sc_cat_item_guide_items</sys_db_object>
+        <sys_id>648ebfe8a6834d2caf5a274414274324</sys_id>
+        <sys_metadata>891df62247e20210e9d1d369316d438a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a012ae9647a60210e9d1d369316d4312</sys_name>
+        <sys_package display_value="Onboarding Employee" source="x_878034_onboardin">2460e65e47660210e9d1d369316d4310</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding Employee">2460e65e47660210e9d1d369316d4310</sys_scope>
+        <sys_scope_delete display_value="">0339692d99eb454e89b63994d82c42a4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_items_891df62247e20210e9d1d369316d438a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_items_891df62247e20210e9d1d369316d438a">d82df22247e20210e9d1d369316d4337</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 19:16:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

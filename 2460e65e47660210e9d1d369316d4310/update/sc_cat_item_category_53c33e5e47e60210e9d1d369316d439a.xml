@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Phone Samsung Galaxy 26">5693ba1e47e60210e9d1d369316d4325</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-04 23:56:32</sys_created_on>
+        <sys_id>53c33e5e47e60210e9d1d369316d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Phone Samsung Galaxy 26</sys_name>
+        <sys_package display_value="Onboarding Employee" source="x_878034_onboardin">2460e65e47660210e9d1d369316d4310</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Onboarding Employee">2460e65e47660210e9d1d369316d4310</sys_scope>
+        <sys_update_name>sc_cat_item_category_53c33e5e47e60210e9d1d369316d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-04 23:56:32</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
